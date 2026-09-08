@@ -1,0 +1,10 @@
+The Water Cycle
+
+The water cycle, also known as the hydrologic cycle, describes the continuous movement of water on, above, and below the surface of the Earth. 
+
+There are four main stages in the water cycle:
+
+1. Evaporation: Water from oceans, lakes, and rivers heats up and turns into water vapor, rising into the atmosphere.
+2. Condensation: As water vapor rises, it cools and turns back into liquid water droplets, forming clouds.
+3. Precipitation: When clouds become heavy, water falls back to Earth as rain, snow, sleet, or hail.
+4. Collection: Water gathers back in oceans, lakes, and rivers, or seeps into the ground to start the cycle again.
